@@ -1,11 +1,13 @@
 .profile {
     max-width: 50%;
-    margin-top: 5vh;
+    margin: auto;
+    margin-top: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
     box-shadow: rgba(19, 19, 19, 0.35) 0px 5px 15px;
     border-radius: 0.5rem;
+      
 }
 
 .description {
